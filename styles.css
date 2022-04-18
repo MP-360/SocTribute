@@ -1,5 +1,28 @@
-/* Copy and paste your CSS from CodePen into here */
+#main {
+  margin: 20px;
+  border: 35px;
+  border-color: turquoise;
+  border-style: solid;
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+}
 
+body {
+  font-family: monospace, arial;
+  font-weight: normal;
+}
+
+#title {
+  font-family: Brush Script MT, Trebuchet MS;
+  font-size: 375%;
+  margin: 0px;
+}
+
+#tribute-info {
+  font-style: italic;
+  font-size: 105%; 
+}
 
 #image {
   height: auto;
