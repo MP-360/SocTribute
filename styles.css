@@ -1,1 +1,68 @@
 /* Copy and paste your CSS from CodePen into here */
+
+
+#image {
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 620px;
+  display: block;
+  border-color: yellow;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 240px;
+}
+
+#img-caption {
+  font-stretch: condensed;
+  font-size: 90%;
+  position: relative;
+  bottom: -10px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+p {
+  text-align: justify;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1100px;
+  
+}
+
+h3 {
+  text-align: left;
+  max-width: 675px;
+  margin: auto;
+}
+
+#trivia {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+  line-height: 1.5;
+}
+
+#sub-img-div {
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 289px;
+  max-height: 172px;
+  display: block;
+  border-color: yellow;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px;
+}
+
+#quote {
+  font-style: italic;
+  font-weight: bold;
+  position: relative;
+  bottom: -10px;
+}
